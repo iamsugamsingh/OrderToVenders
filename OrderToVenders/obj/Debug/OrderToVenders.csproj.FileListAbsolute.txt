@@ -1,0 +1,23 @@
+D:\OrderToVenders\OrderToVenders\bin\OrderToVenders.dll
+D:\OrderToVenders\OrderToVenders\bin\OrderToVenders.pdb
+D:\OrderToVenders\OrderToVenders\obj\Debug\OrderToVenders.dll
+D:\OrderToVenders\OrderToVenders\obj\Debug\OrderToVenders.pdb
+D:\OrderToVenders\OrderToVenders\obj\Debug\OrderToVenders.csprojResolveAssemblyReference.cache
+D:\OrderToVenders\OrderToVenders\obj\Debug\RdlCompile.cache
+D:\OrderToVenders\OrderToVenders\obj\Debug\RdlCompile.compiled
+D:\Complete Softwares\OrderToVenders\OrderToVenders\bin\OrderToVenders.dll
+D:\Complete Softwares\OrderToVenders\OrderToVenders\bin\OrderToVenders.pdb
+D:\Complete Softwares\OrderToVenders\OrderToVenders\bin\Aws.pdb
+D:\Complete Softwares\OrderToVenders\OrderToVenders\obj\Debug\OrderToVenders.csprojResolveAssemblyReference.cache
+D:\Complete Softwares\OrderToVenders\OrderToVenders\obj\Debug\RdlCompile.cache
+D:\Complete Softwares\OrderToVenders\OrderToVenders\obj\Debug\RdlCompile.compiled
+D:\Complete Softwares\OrderToVenders\OrderToVenders\obj\Debug\OrderToVenders.dll
+D:\Complete Softwares\OrderToVenders\OrderToVenders\obj\Debug\OrderToVenders.pdb
+W:\Software\Sugam\OrderToVenders\OrderToVenders\bin\OrderToVenders.dll
+W:\Software\Sugam\OrderToVenders\OrderToVenders\bin\OrderToVenders.pdb
+W:\Software\Sugam\OrderToVenders\OrderToVenders\bin\Aws.pdb
+W:\Software\Sugam\OrderToVenders\OrderToVenders\obj\Debug\OrderToVenders.csprojResolveAssemblyReference.cache
+W:\Software\Sugam\OrderToVenders\OrderToVenders\obj\Debug\RdlCompile.cache
+W:\Software\Sugam\OrderToVenders\OrderToVenders\obj\Debug\RdlCompile.compiled
+W:\Software\Sugam\OrderToVenders\OrderToVenders\obj\Debug\OrderToVenders.dll
+W:\Software\Sugam\OrderToVenders\OrderToVenders\obj\Debug\OrderToVenders.pdb

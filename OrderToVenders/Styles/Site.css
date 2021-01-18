@@ -1,0 +1,110 @@
+﻿.logo
+{
+    width:35px;
+    border-radius:2px;
+    margin-right:10px;
+}
+
+.Container
+{
+    width:80%;
+    margin:auto;
+    padding:25px;
+}
+.row
+{
+    width:100%;
+    margin:25px;
+    margin:auto; 
+    margin-top:100px; 
+}
+.left-side
+{
+    width:48%;
+    float:left;
+}
+.right-side
+{
+    width:48%;
+    float:right;
+}
+.location1
+{
+    width:296px;
+    height:148px;
+    background:#D3D3D3;
+    color:BLACK;
+    margin-top:50px;
+    float:right;
+    box-shadow:5px 5px 10px black;
+    border-radius:5px;
+}
+.location2
+{
+    width:296px;
+    height:148px;
+    background:#D3D3D3;
+    color:BLACK;
+    margin-top:50px;
+    float:left;
+    box-shadow:5px 5px 10px black;
+    border-radius:5px;
+}
+.location1:hover
+{
+    border:2px solid black;    
+}
+.location2:hover
+{
+    border:2px solid black;    
+}
+.content
+{
+    line-height:148px;
+    font-size:x-large;
+    text-align:center;
+}
+.logo img
+{
+    width:40px;  
+    line-height:80px;
+    margin:5px;
+}
+.navbar
+{
+    background-color:#3390FF;
+    width:100%;
+    padding:0px;
+    margin:0px;   
+    height:48px;  
+    box-shadow:2px 2px 4px;       
+}
+.logo
+{
+    float:left; 
+    margin-left:20px;   
+}
+.softwareName
+{
+    line-height:50px;
+    color:White;
+}
+.message
+{
+    text-align:center;
+    background:#d61a19;
+    color:White;
+    width:20%;
+    margin:auto;             
+    margin-top:75px;
+    padding:5px; 
+    border-radius:5px;
+    box-shadow:2px 2px 5px black;  
+}
+.cls
+{
+    width:100%;
+    border:none;
+    font-size:12px; 
+    padding:3px;
+}
